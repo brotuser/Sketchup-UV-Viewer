@@ -1,0 +1,28 @@
+# Overview
+
+This is a SketchUp extension which displays the UV Map of the current Scene.
+
+Game engines require UV coordinats within [0,0 - 1,1] Bounds. This view will 
+show where Sketchup messes.
+
+Be sure to have only one Object with one Material
+
+## Beta Version
+
+Note that this is a beta version and might fail 
+
+# Requirements
+
+* SketchUp Pro 2014 or newer
+* Windows or OS X
+
+
+## Tools Used
+
+* SKUI https://github.com/thomthom/SKUI
+* raphael JS http://raphaeljs.com
+* raphael.pan-zoom https://github.com/escobar5/raphael-pan-zoom
+
+# License
+
+This project is licensed under the MIT license.
